@@ -17,3 +17,32 @@ The dataset used in this project contains labeled emails categorized as spam or 
 ## Feature Selection Using Information Gain
 
 Information gain is used to select the most relevant features for the classification task. It demonstrates the calculation and selection of features based on their information gain values.
+
+## Directory Structure
+
+For running this project, ensure the following directory structure:
+```
+lingspam_public/
+└── lemm_stop/
+    ├── part1/
+    │   ├── file1.txt
+    │   ├── file2.txt
+    │   └── ...
+    ├── part2/
+    │   ├── file1.txt
+    │   ├── file2.txt
+    │   └── ...
+    ├── part3/
+    │   ├── file1.txt
+    │   ├── file2.txt
+    │   └── ...
+    ├── ...
+    ├── part9/
+    │   ├── file1.txt
+    │   ├── file2.txt
+    │   └── ...
+    └── part10/
+        ├── file1.txt
+        ├── file2.txt
+        └── ...
+```
